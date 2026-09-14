@@ -4,7 +4,6 @@
 [![CI Build](https://github.com/sarthakmun/litetune/actions/workflows/ci.yml/badge.svg)](https://github.com/sarthakmun/litetune/actions/workflows/ci.yml)
 [![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB?logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE.md)
 [![Author](https://img.shields.io/badge/Author-Sarthak%20Mun-blueviolet)](https://github.com/sarthakmun)
 
 ---
@@ -175,7 +174,3 @@ pytest tests/ -v
 *GitHub:* [@sarthakmun](https://github.com/sarthakmun)
 
 ---
-
-## 📄 License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details.

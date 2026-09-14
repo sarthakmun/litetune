@@ -10,7 +10,6 @@ name = "litetune"
 version = "1.0.0"
 description = "High-Performance Large Language Model (LLM) Fine-Tuning, PEFT (QLoRA/LoRA), Quantization, and Distributed Scaling Engine"
 readme = "README.md"
-license = { text = "Apache-2.0" }
 authors = [
   { name = "Sarthak Mun", email = "sarthak.mun03@gmail.com" },
 ]
